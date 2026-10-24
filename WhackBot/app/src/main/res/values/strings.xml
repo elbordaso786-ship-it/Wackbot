@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhackBot</string>
+    <string name="a11y_desc">Lets WhackBot send single taps to the screen. It does not read screen content.</string>
+</resources>
